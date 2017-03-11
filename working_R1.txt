@@ -1,5 +1,6 @@
 This is working_R1 branch
 Add content in git web
+R1 now
 R2 modify 
-R2 is beautifulR1 nowR2 modify 
 R1 is handsome
+R2 is beautiful
