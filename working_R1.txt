@@ -2,4 +2,9 @@ This is working_R1 branch
 Add content in git web
 R1 now
 R2 modify 
+<<<<<<< HEAD
 R1 is handsome
+=======
+R1 is handsome
+R2 is beautiful
+>>>>>>> working_R2
